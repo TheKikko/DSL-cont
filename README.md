@@ -6,4 +6,6 @@ It's based on [DSLs of Mathematics](https://Github.com/DSLsofMath/DSLsofMath) as
 ## Ideas for courses to implement: 
 - [TMV170 - calculus](https://chalmers.instructure.com/courses/8879/assignments/syllabus)
 - [TMV216 - linalg](https://chalmers.instructure.com/courses/7302/assignments/syllabus)
+- [MVE025 - complex analysis](https://chalmers.instructure.com/courses/7422) (in Swedish) 
+- [MVE030 - fourier analysis](https://chalmers.instructure.com/courses/8882/assignments/syllabus)
 
